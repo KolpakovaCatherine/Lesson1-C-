@@ -1,4 +1,6 @@
-﻿int max(int arg1, int arg2, int arg3)
+﻿//поиск максимального из 9 с помощью функции
+
+int max(int arg1, int arg2, int arg3)
 {
     int result = arg1;
     if (arg2 > result) result = arg2;
